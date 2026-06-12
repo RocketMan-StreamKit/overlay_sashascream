@@ -1,0 +1,25 @@
+{
+  "name": {
+    "en": "Split personality х3",
+    "ru": "РазТроение личности",
+    "uk": "Розтроєння особистості"
+  },
+  "description": {
+    "en": "The scariest part is the naturally recreated image by the person using makeup 😈",
+    "ru": "Самое страшное - это натурально воссозданный образ человеком с помощью грима 😈",
+    "uk": "Найстрашніше - це натурально відтворений образ людиною за допомогою гриму 😈"
+  },
+  "type": "overlay",
+  "version": "1.0.0",
+  "author": "RocketMan",
+  "icon": "logo.svg",
+  "overlay": {
+    "audio": "audio.mp3",
+    "video": "video.webm",
+    "defaultVolume": 50,
+    "defaultDuration": 5,
+    "lockDuration": true,
+    "durationMin": 5,
+    "durationMax": 5
+  }
+}
